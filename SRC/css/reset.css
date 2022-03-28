@@ -1,0 +1,11 @@
+/*Tirando a borda */
+
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;/*todo padding e toda margen vai ficar fixado*/
+}
+
+ul{
+    list-style: none;
+}
